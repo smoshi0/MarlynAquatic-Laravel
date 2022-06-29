@@ -62,3 +62,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## How To Install
+
+Inport the database from folder DB to your repositories rename it to marlyn-aquatic, and then run this laravel
